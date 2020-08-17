@@ -36,5 +36,4 @@ public class PlayerMovement : MonoBehaviour
         controller.Move(0f, false, jump);
         jump = false;
     }
-
 }
